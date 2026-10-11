@@ -13,6 +13,7 @@ Me interesa convertir datos en decisiones: limpiar y explorar datos, probar hip�
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -45,6 +46,18 @@ Notebook de estudio con sintaxis, estructuras de datos, números aleatorios con 
 ### Métodos Estadísticos en R
 Libro web en construcción, hecho con **R y bookdown**.
 🔗 [Repositorio](https://github.com/KathBarrera/jupiter_book_R)
+
+## 🤝 Liderazgo y experiencia
+
+**[Singularity | Grupo de Ciencia de Datos e IA](https://www.linkedin.com/company/singularity-cd/)** · Universidad del Norte
+- **Directora de Logística** (ago. 2026 – actualidad): planeación y coordinación logística de las actividades y eventos del grupo.
+- **Embajadora** (ago. 2025 – may. 2026): representación del grupo y difusión de sus workshops, bootcamps y charlas sobre IA en la comunidad universitaria.
+
+## 🎓 Formación y certificaciones
+
+- **Pregrado en Ciencia de Datos**, Universidad del Norte (2024 – 2028)
+- **Análisis de datos con Power BI**, Universidad del Norte (2024)
+- **ProducTeam: Producción de eventos**, Universidad del Norte (2026)
 
 ## 📫 Contacto
 
