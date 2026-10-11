@@ -1,6 +1,6 @@
 # Hola, soy Katherin Barrera López 👋
 
-Estudiante de **Ciencia de Datos** (6.º semestre) en la **Universidad del Norte**, en Barranquilla, Colombia.
+Estudiante de **Ciencia de Datos** (6.º semestre) en la **Universidad del Norte** (grado previsto: 2028). Vivo entre Santa Marta y Barranquilla, Colombia.
 
 Me interesa convertir datos en decisiones: limpiar y explorar datos, probar hipótesis con estadística, construir modelos de machine learning y contar los resultados con visualizaciones claras.
 
